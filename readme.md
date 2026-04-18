@@ -74,10 +74,10 @@ emotiscan/
 ```bash
 git clone https://github.com/Donald8585/emotiscan.git
 cd emotiscan
-docker compose up --build
+docker compose --profile gpu --profile ollama up --build
 ```
 
-Then open **http://localhost:8501**.
+Then open **http://localhost:80**.
 
 - GPU users: make sure NVIDIA Container Toolkit is installed, then run `./setup_gpu.sh` once before `docker compose up`.
 - Ollama is expected on `http://localhost:8003` (override with `OLLAMA_URL` env var).
