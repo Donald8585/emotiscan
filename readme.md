@@ -77,6 +77,12 @@ cd emotiscan
 docker compose --profile gpu --profile ollama up --build
 ```
 
+Then run:
+
+```bash
+docker exec emotiscan-ollama ollama run qwen3:8b
+```
+
 Then open **http://localhost:80**.
 
 - GPU users: make sure NVIDIA Container Toolkit is installed, then run `./setup_gpu.sh` once before `docker compose up`.
