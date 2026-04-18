@@ -37,6 +37,7 @@ EmotiScan is a multimodal, emotion-aware Streamlit app that detects your mood in
 ---
 
 ## 📦 Project Structure
+```text
 emotiscan/
 ├── streamlit_app.py # Main Streamlit UI (tabs: Emotion, Research, Mood, Diary, Chat, About)
 ├── config.py # Central config: ports, models, weights, feature flags
@@ -62,7 +63,7 @@ emotiscan/
 │ └── diary_session.py
 └── ui/
   └── ascii_art_generator.py
-
+```
 
 ---
 
