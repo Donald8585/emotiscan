@@ -171,9 +171,10 @@ MIT.
 
 ## 👥 Authors
 
-- So Chit Wai, Alfred
-- Tong Chin Pang, Danny
-- Zhen Churou, Iris
+| | | |
+|:---:|:---:|:---:|
+| [<img src="https://github.com/Donald8585.png" width="60px;"/><br /><sub><a href="https://github.com/Donald8585">Donald8585</a></sub>](https://github.com/Donald8585) | [<img src="https://github.com/dannytong2010.png" width="60px;"/><br /><sub><a href="https://github.com/dannytong2010">dannytong2010</a></sub>](https://github.com/dannytong2010) | [<img src="https://github.com/Iris-Yan99.png" width="60px;"/><br /><sub><a href="https://github.com/Iris-Yan99">Iris-Yan99</a></sub>](https://github.com/Iris-Yan99) |
+| So Chit Wai, Alfred | Tong Chin Pang, Danny | Zhen Churou, Iris |
 
 ---
 
