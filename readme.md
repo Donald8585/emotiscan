@@ -169,6 +169,14 @@ MIT.
 
 ---
 
+## 👥 Authors
+
+- So Chit Wai, Alfred
+- Tong Chin Pang, Danny
+- Zhen Churou, Iris
+
+---
+
 ## 🙏 Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
