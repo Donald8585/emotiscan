@@ -1,0 +1,35 @@
+streamlit>=1.35.0
+streamlit-webrtc>=0.47.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+scikit-learn>=1.5.0
+httpx>=0.27.0
+arxiv>=2.1.0
+duckduckgo-search>=6.0.0
+mcp[cli]>=1.0.0
+fastmcp>=0.9.0
+plotly>=5.18.0
+av>=12.0.0
+audio-recorder-streamlit>=0.0.8
+faster-whisper>=1.0.0
+textblob>=0.18.0
+Pillow>=10.0.0
+pytest>=8.0.0
+hsemotion>=0.3.0
+timm>=0.9.12,<1.0.0
+ultralytics>=8.1.0
+huggingface-hub>=0.20.0
+# Optional (alternative backends):
+# fer>=22.5.0            # FER backend (pulls PyTorch ~2GB)
+# deepface>=0.0.90       # Legacy DeepFace backend (replaced by HSEmotion)
+# tf-keras>=2.16.0       # Required only if using DeepFace
+#
+# ── IMPORTANT: GPU Setup ────────────────────────────────────────
+# ultralytics pulls CPU-only torch by default.
+# For GPU acceleration, run setup_gpu.sh (or the commands below)
+# BEFORE installing requirements.txt:
+#
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+#   pip install -r requirements.txt
+#
+# Or just run:  bash setup_gpu.sh
